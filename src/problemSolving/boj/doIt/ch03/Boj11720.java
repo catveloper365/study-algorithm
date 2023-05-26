@@ -6,6 +6,7 @@ public class Boj11720 {
 	/*
 	 * Do it! 알고리즘 코딩 테스트(자바편)
 	 * ch03-1. 숫자의 합 문제(boj.11720)
+	 * 시간복잡도 O(n)
 	 */
 
 	public static void main(String[] args) {
@@ -34,6 +35,7 @@ public class Boj11720 {
 		
 		/*
 		 * 문제 해결 위한 로직 구현
+		 * 시간복잡도 O(n)
 		 */
 		
 		//구현 방법1 : 제일 처음 생각, 배열 설명 후 나온 문제여서 배열을 사용해야만 한다고 생각해서 나온 로직	

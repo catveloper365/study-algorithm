@@ -6,6 +6,7 @@ public class Boj1546 {
 	/*
 	 * Do it! 알고리즘 코딩 테스트(자바편)
 	 * ch03-1. 평균 문제(boj.1546)
+	 * 시간복잡도 O(n)
 	 */
 
 	public static void main(String[] args) {
