@@ -2,6 +2,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse,java
 
 ### Eclipse ###
+#custom, 중요
+src/problemSolving/jobTest
+
+*.idea
+
+#basic
 .metadata
 bin/
 tmp/
@@ -16,7 +22,7 @@ local.properties
 .classpath
 .project
 .settings/
-src/problemSolving/*/test/
+
 
 # External tool builders
 .externalToolBuilders/
@@ -24,20 +30,11 @@ src/problemSolving/*/test/
 # Locally stored "Eclipse launch configurations"
 *.launch
 
-# PyDev specific (Python IDE for Eclipse)
-*.pydevproject
-
-# CDT-specific (C/C++ Development Tooling)
-.cproject
-
 # CDT- autotools
 .autotools
 
 # Java annotation processor (APT)
 .factorypath
-
-# PDT-specific (PHP Development Tools)
-.buildpath
 
 # sbteclipse plugin
 .target
@@ -47,9 +44,6 @@ src/problemSolving/*/test/
 
 # TeXlipse plugin
 .texlipse
-
-# STS (Spring Tool Suite)
-.springBeans
 
 # Code Recommenders
 .recommenders/
