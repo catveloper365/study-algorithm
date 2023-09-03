@@ -1,4 +1,4 @@
-package problemSolving.boj.doIt.ch03;
+package problemSolving.boj.doIt.ch03_자료구조.sec05_스택과큐;
 
 import java.util.Scanner;
 import java.util.Stack;

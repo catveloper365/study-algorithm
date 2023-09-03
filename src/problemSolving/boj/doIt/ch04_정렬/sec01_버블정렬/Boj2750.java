@@ -1,4 +1,4 @@
-package problemSolving.boj.doIt.ch04;
+package problemSolving.boj.doIt.ch04_정렬.sec01_버블정렬;
 
 import java.util.Scanner;
 import java.util.LinkedList;

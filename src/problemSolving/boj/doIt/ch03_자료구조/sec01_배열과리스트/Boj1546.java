@@ -1,4 +1,4 @@
-package problemSolving.boj.doIt.ch03;
+package problemSolving.boj.doIt.ch03_자료구조.sec01_배열과리스트;
 
 import java.util.Scanner;
 

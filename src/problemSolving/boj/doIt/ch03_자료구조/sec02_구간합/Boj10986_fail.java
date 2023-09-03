@@ -1,4 +1,4 @@
-package problemSolving.boj.doIt.ch03;
+package problemSolving.boj.doIt.ch03_자료구조.sec02_구간합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package problemSolving.boj.doIt.ch03;
+package problemSolving.boj.doIt.ch03_자료구조.sec04_슬라이딩윈도우;
 
 //import java.util.Scanner;
 import java.util.Map;

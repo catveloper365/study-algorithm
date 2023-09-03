@@ -1,4 +1,4 @@
-package problemSolving.boj.doIt.ch03;
+package problemSolving.boj.doIt.ch03_자료구조.sec03_투포인터;
 
 import java.io.IOException;
 import java.util.Arrays;
